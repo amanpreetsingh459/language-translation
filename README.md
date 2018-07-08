@@ -5,8 +5,6 @@ This repository contains the code for a sequence to sequence deep learning model
 ## Files and folders into the repository : -
 * ### dlnd_language_translation.ipynb
 This notebook contains the actual code for the whole project to implement seq-to-seq model
-* ### dlnd_language_translation.html
-This is the equivalent html file for the notebook. This has been included for having the quick look on any of the portion of whole code in simpler format.
 * ### Data
 Since translating the whole language of English to French will take lots of time to train, so a samll portion of data is included in the repository upon which the model can be trained. Two different files contains small corpus for english and french datasets in the "data" directory.
 * ### helper.py
