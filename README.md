@@ -1,6 +1,6 @@
 # language-translation
 
-This repository contains the code for a sequence to sequence deep learning model that has been trained on a data set of English and French sentences. It can translate new sentences from English to French with 90 per cent accuracy.
+This repository contains the code for a sequence to sequence deep learning model that has been trained on a data set of English and French sentences. It can translate new sentences from English to French with 60 per cent accuracy.
 
 ## Files and folders into the repository : -
 * ### dlnd_language_translation.ipynb
